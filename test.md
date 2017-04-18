@@ -6,10 +6,14 @@
 [naver](http://www.naver.com)
 
 
-```
+```java
 
-//ss
-var = 0;
+public class Main {
+
+  public static void main(String[] args) {
+   
+  }
+}
 
 ```
 
