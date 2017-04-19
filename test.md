@@ -6,13 +6,9 @@
 [naver](http://www.naver.com)
 
 
-```
 
-//ss
-var = 0;
 
-```
-
+a `code span`
 
 라인
 ---
@@ -25,4 +21,4 @@ var = 0;
 [1]:(http://slowalk.tistory.com/2120)
 
 
-![IMG](imagegs/Workspace-Template.jpg)
+![IMG](images/Workspace-Template.jpg)
